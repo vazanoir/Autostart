@@ -1,0 +1,6 @@
+data/app.vazanoir.Autostart.desktop.in
+data/app.vazanoir.Autostart.appdata.xml.in
+data/app.vazanoir.Autostart.gschema.xml
+src/main.js
+src/window.js
+src/window.ui

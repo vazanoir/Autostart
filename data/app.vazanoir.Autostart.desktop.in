@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=autostart
+Exec=app.vazanoir.Autostart
+Icon=app.vazanoir.Autostart
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

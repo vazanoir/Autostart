@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="autostart">
+	<schema id="app.vazanoir.Autostart" path="/app/vazanoir/Autostart/">
+	</schema>
+</schemalist>
