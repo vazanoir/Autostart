@@ -46,12 +46,12 @@ export const AutostartApplication = GObject.registerClass(
                     transient_for: this.active_window,
                     application_name: 'autostart',
                     application_icon: 'app.vazanoir.Autostart',
-                    developer_name: 'Romain',
+                    developer_name: 'Vazanoir',
                     version: '0.1.0',
                     developers: [
-                        'Romain'
+                        'Vazanoir'
                     ],
-                    copyright: '© 2023 Romain'
+                    copyright: '© 2023 Vazanoir'
                 };
                 const aboutWindow = new Adw.AboutWindow(aboutParams);
                 aboutWindow.present();
